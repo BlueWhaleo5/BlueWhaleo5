@@ -75,24 +75,10 @@ I'm actively exploring and building systems in:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=default&hide_border=true" />
-</div>
-
----
-
 ## 📫 Let's Connect!
 
-* **LinkedIn:** [Your LinkedIn Profile]
-* **Email:** [your.email@example.com]
-* **Portfolio:** [yourwebsite.com]
+* **LinkedIn:** [[Tu Pham]([url](https://www.linkedin.com/in/tu-pham-264065319/))]
+* **Email:** [pminhtu787@gmail.com]
 
 ---
 
