@@ -77,7 +77,7 @@ I'm actively exploring and building systems in:
 
 ## 📫 Let's Connect!
 
-* **LinkedIn:** [[Tu Pham]([url](https://www.linkedin.com/in/tu-pham-264065319/))]
+* **LinkedIn:** [Tu Pham](https://www.linkedin.com/in/tu-pham-264065319/)
 * **Email:** [pminhtu787@gmail.com]
 
 ---
@@ -85,6 +85,3 @@ I'm actively exploring and building systems in:
 > **"Data is not just information, it's the foundation for intelligent action."**
 
 *Thank you for visiting my profile!*
-
-<!-- Snake animation -->
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
