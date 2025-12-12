@@ -1,16 +1,104 @@
-## Hi there 👋
+# 👋 Hello, I'm Azure
 
-<!--
-**BlueWhaleo5/BlueWhaleo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A Passionate Data Engineer & AI/ML Developer** focused on building end-to-end data systems and applied AI solutions that solve real-world problems. I thrive at the intersection of data analysis, machine learning, and software engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus & Interests
+
+I'm actively exploring and building systems in:
+
+* **🤖 Applied AI for Social Impact:** Building intelligent systems that automate complex workflows like AI-powered complaint analysis for consumer protection.
+* **📊 End-to-End Machine Learning:** From EDA and model prototyping to deployment for tasks like sentiment prediction and regression analysis.
+* **⚙️ Scalable Data Infrastructure:** Designing real-time data streaming pipelines for IoT and large-scale applications.
+* **📈 Data-Driven Decision Making:** Creating interactive dashboards that translate business data into actionable insights.
+
+## 🛠️ Technical Toolkit
+
+### **Programming & Query Languages**
+`Python` `SQL` `Bash`
+
+### **Data Science & Machine Learning**
+`Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter` `NLP`
+
+### **Data Engineering & Big Data**
+`Apache Spark` `Apache Kafka` `Delta Lake` `Hive` `Trino` `PostgreSQL` `MySQL`
+
+### **MLOps & Cloud-Native Tech**
+`Docker` `Kubernetes` `MinIO` `Amazon S3` `Grafana`
+
+### **Frameworks & Tools**
+`Streamlit` `Git` `Linux`
+
+---
+
+## 🚀 Featured Projects
+
+### **[AI-Powered Consumer Complaint Analysis System](https://github.com/yourusername/complaint-analysis-ai)**
+> **Problem:** Manual processing of thousands of daily consumer complaints is inefficient.
+> **Solution:** End-to-end AI system that:
+> * Automatically classifies complaints using NLP
+> * Predicts severity for prioritization
+> * Recommends resolution actions
+> * Provides chatbot for natural language querying
+>
+> **Tech:** `Python` `NLP` `LLM APIs` `Streamlit` `Docker`
+
+### **[IoT Data Streaming Platform](https://github.com/yourusername/iot-streaming-platform)**
+> Cloud-native platform for high-volume IoT data processing.
+> * **Architecture:** Kafka → Spark → Delta Lake/MinIO
+> * **Orchestration:** Docker + Kubernetes
+> * **Monitoring:** Grafana integration
+>
+> **Tech:** `Kafka` `Spark` `Delta Lake` `Kubernetes` `Docker` `Grafana`
+
+### **[Google Play Review Analysis & Sentiment Prediction](https://github.com/yourusername/shopee-review-analysis)**
+> ML pipeline to analyze user reviews and predict ratings.
+> * Text preprocessing & feature extraction
+> * Multiple regression model comparison
+>
+> **Tech:** `Python` `Scikit-Learn` `NLP` `Pandas` `Matplotlib`
+
+### **[Fuel Consumption Prediction Using ML](https://github.com/yourusername/fuel-consumption-prediction)**
+> Regression project predicting vehicle fuel efficiency.
+> * Thorough EDA and feature engineering
+> * Linear/Polynomial Regression implementation
+>
+> **Tech:** `Python` `Scikit-Learn` `Pandas` `NumPy` `Seaborn`
+
+### **[E-commerce Sales Analysis Dashboard](https://github.com/yourusername/ecommerce-sales-dashboard)**
+> Relational database design with interactive Streamlit dashboard.
+> * Advanced SQL analysis
+> * Sales KPI visualization
+>
+> **Tech:** `MySQL` `Python` `Streamlit` `Pandas` `Seaborn`
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=default&hide_border=true" />
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+* **LinkedIn:** [Your LinkedIn Profile]
+* **Email:** [your.email@example.com]
+* **Portfolio:** [yourwebsite.com]
+
+---
+
+> **"Data is not just information, it's the foundation for intelligent action."**
+
+*Thank you for visiting my profile!*
+
+<!-- Snake animation -->
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
