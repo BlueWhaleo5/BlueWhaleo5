@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Azure
 
-**A Passionate Data Engineer & AI/ML Developer** focused on building end-to-end data systems and applied AI solutions that solve real-world problems. I thrive at the intersection of data analysis, machine learning, and software engineering.
+**A Passionate Data Engineer & AI/ML Developer** focused on building end-to-end data systems and applied AI solutions that solve real-world problems. I thrive at the intersection of data analysis, data engineering and machine learning.
 
 ---
 
