@@ -19,7 +19,7 @@ I'm actively exploring and building systems in:
 `Python` `SQL` `Bash`
 
 ### **Data Science & Machine Learning**
-`Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter` `NLP`
+`Scikit-Learn` `PyTorch` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter` `NLP`
 
 ### **Data Engineering & Big Data**
 `Apache Spark` `Apache Kafka` `Delta Lake` `Hive` `Trino` `PostgreSQL` `MySQL`
