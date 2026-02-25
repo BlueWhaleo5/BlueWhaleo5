@@ -19,16 +19,16 @@ I'm actively exploring and building systems in:
 `Python` `SQL` `Bash`
 
 ### **Data Science & Machine Learning**
-`Scikit-Learn` `PyTorch` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter` `NLP`
+`Scikit-Learn` `PyTorch` `Pandas` `Matplotlib` `Seaborn` `NLP` `RAG`
 
 ### **Data Engineering & Big Data**
 `Apache Spark` `Apache Kafka` `Delta Lake` `Hive` `Trino` `PostgreSQL` `MySQL`
 
 ### **MLOps & Cloud-Native Tech**
-`Docker` `Kubernetes` `MinIO` `Amazon S3` `Grafana`
+`Docker` `Kubernetes` `MinIO` `Grafana`
 
 ### **Frameworks & Tools**
-`Streamlit` `Git` `Linux`
+`Streamlit` `Git` `Linux` `Jupyter`
 
 ---
 
@@ -42,7 +42,7 @@ I'm actively exploring and building systems in:
 > * Recommends resolution actions
 > * Provides chatbot for natural language querying
 >
-> **Tech:** `Python` `NLP` `LLM APIs` `Streamlit` `Docker`
+> **Tech:** `Python` `NLP` `LLM APIs` `Streamlit` `Docker` `RAG`
 
 ### **[IoT Data Streaming Platform](https://github.com/yourusername/iot-streaming-platform)**
 > Cloud-native platform for high-volume IoT data processing.
