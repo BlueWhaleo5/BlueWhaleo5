@@ -32,49 +32,6 @@ I'm actively exploring and building systems in:
 
 ---
 
-## 🚀 Featured Projects
-
-### **[AI-Powered Consumer Complaint Analysis System](https://github.com/yourusername/complaint-analysis-ai)**
-> **Problem:** Manual processing of thousands of daily consumer complaints is inefficient.
-> **Solution:** End-to-end AI system that:
-> * Automatically classifies complaints using NLP
-> * Predicts severity for prioritization
-> * Recommends resolution actions
-> * Provides chatbot for natural language querying
->
-> **Tech:** `Python` `NLP` `LLM APIs` `Streamlit` `Docker` `RAG`
-
-### **[IoT Data Streaming Platform](https://github.com/yourusername/iot-streaming-platform)**
-> Cloud-native platform for high-volume IoT data processing.
-> * **Architecture:** Kafka → Spark → Delta Lake/MinIO
-> * **Orchestration:** Docker + Kubernetes
-> * **Monitoring:** Grafana integration
->
-> **Tech:** `Kafka` `Spark` `Delta Lake` `Kubernetes` `Docker` `Grafana`
-
-### **[Google Play Review Analysis & Sentiment Prediction](https://github.com/yourusername/shopee-review-analysis)**
-> ML pipeline to analyze user reviews and predict ratings.
-> * Text preprocessing & feature extraction
-> * Multiple regression model comparison
->
-> **Tech:** `Python` `Scikit-Learn` `NLP` `Pandas` `Matplotlib`
-
-### **[Fuel Consumption Prediction Using ML](https://github.com/yourusername/fuel-consumption-prediction)**
-> Regression project predicting vehicle fuel efficiency.
-> * Thorough EDA and feature engineering
-> * Linear/Polynomial Regression implementation
->
-> **Tech:** `Python` `Scikit-Learn` `Pandas` `NumPy` `Seaborn`
-
-### **[E-commerce Sales Analysis Dashboard](https://github.com/yourusername/ecommerce-sales-dashboard)**
-> Relational database design with interactive Streamlit dashboard.
-> * Advanced SQL analysis
-> * Sales KPI visualization
->
-> **Tech:** `MySQL` `Python` `Streamlit` `Pandas` `Seaborn`
-
----
-
 ## 📫 Let's Connect!
 
 * **LinkedIn:** [Tu Pham](https://www.linkedin.com/in/tu-pham-264065319/)
@@ -84,4 +41,4 @@ I'm actively exploring and building systems in:
 
 > **"Data is not just information, it's the foundation for intelligent action."**
 
-*Thank you for visiting my profile!*
+*Thank you for visiting*
